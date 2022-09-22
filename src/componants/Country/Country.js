@@ -12,7 +12,7 @@ const Country = () => {
 
     return (
         <div>
-            <h1>Countries in Other File</h1>
+            <h1>React Rest Countries Simple App</h1>
             <h3>Total Country: {countries.length}</h3>
             <div className='all-country'>
                 {

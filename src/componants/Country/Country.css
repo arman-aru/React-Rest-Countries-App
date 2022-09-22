@@ -1,0 +1,10 @@
+.all-country h1{
+    color: blue;
+}
+
+.all-country{
+    margin: 0px 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
